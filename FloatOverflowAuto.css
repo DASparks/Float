@@ -1,0 +1,16 @@
+div{
+    width: 600px;
+    height: 600px;
+    background-color: lightblue;
+    border: 5px solid green;
+    overflow: auto;
+}
+
+p {
+    font-family: arial, sans-serif;
+    color: darkred;
+}
+img {
+    border:3px solid red;
+    float:left;
+}
